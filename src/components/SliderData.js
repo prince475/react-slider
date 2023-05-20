@@ -25,7 +25,7 @@ export const SliderData = [
     image: 'https://images.pexels.com/photos/6303775/pexels-photo-6303775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
     },
     {
-    image: 'https://images.pexels.com/photos/8112193/pexels-photo-8112193.jpeg'
+    image: 'https://images.pexels.com/photos/3769135/pexels-photo-3769135.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
     },
     {
     image: 'https://images.pexels.com/photos/8731037/pexels-photo-8731037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
