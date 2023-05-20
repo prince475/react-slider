@@ -36,12 +36,12 @@
 }
 
 .slide {
-  opacity: 0;
+  opacity: 0.9;
   transition-duration: 1s ease;
 }
 
 .slide.active {
   opacity: 1;
   transition-duration: 1s;
-  transform: scale(1.08);
+  transform: scale(0.9);
 }
